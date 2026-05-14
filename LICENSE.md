@@ -1,4 +1,4 @@
-
+Enhance iStat Menus for macOS with ultimate Automation for iStat Menus for macOS - OCR-support and performance-boost, the #1 automation. Includes OCR-support and performance-boost
 
 
 
